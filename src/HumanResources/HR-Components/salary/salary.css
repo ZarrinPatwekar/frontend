@@ -1,0 +1,14 @@
+.salary-main{
+    width: 95%;
+    margin: 0px auto;
+}
+.salary-head{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 20px 0px 0px 0px !important; */
+    align-items: center;
+    margin-top: 20px;
+}
+.salary-add-btn{
+    padding: 10px 25px;
+}
